@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GEETIKAPUROHIT
 - 👀 I’m interested in Programming, Debugging and testing
-- 🌱 I’m currently learning Compuetr Engineering 
+- 🌱 I’m currently learning Computer Engineering 
 - 💞️ I’m looking to collaborate on Machine Learning and Data Science
 - 📫 How to reach me Using Linkdin https://www.linkedin.com/in/geetika-purohit-a180aa205
 
